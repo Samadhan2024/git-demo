@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "git-devops-testing"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
