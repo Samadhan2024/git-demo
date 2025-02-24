@@ -1,0 +1,9 @@
+{
+	"name": "git-devops-testing",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2039f8bf-223f-4442-b9eb-710a1ebfe0fc",
+		"tenantId": "d73beb85-1ac0-46ca-bd94-3cf5ed04b2dc"
+	}
+}
